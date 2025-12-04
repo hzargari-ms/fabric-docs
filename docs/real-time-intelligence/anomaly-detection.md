@@ -7,7 +7,7 @@ author: hzargari-ms
 ms.topic: how-to
 ms.subservice: rti-anomaly-detector
 ms.custom: 
-ms.date: 11/02/2025
+ms.date: 12/04/2025
 ms.search.form: Anomaly detection how-to
 ---
 
@@ -197,10 +197,10 @@ Now that you have anomaly detection configured, explore related capabilities:
 - [Learn about multivariate anomaly detection](multivariate-anomaly-detection.md)
 - [Explore multivariate anomaly overview](multivariate-anomaly-overview.md)
 - [Create alerts from a KQL queryset](../data-activator/data-activator-alert-queryset.md)
-- [Set up Data Activator for automated responses](../data-activator/data-activator-introduction.md)
+- [Set up Activator for automated responses](../data-activator/data-activator-introduction.md)
 
 ## Related content
 
 - [KQL query reference](/kusto/query/)
 - [Real-Time Dashboard documentation](dashboard-real-time-create.md)
-- [Data Activator overview](../data-activator/data-activator-introduction.md)
+- [Activator overview](../data-activator/data-activator-introduction.md)
